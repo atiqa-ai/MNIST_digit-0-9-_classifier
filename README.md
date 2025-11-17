@@ -39,7 +39,7 @@ The model is trained using Logistic Regression, and it predicts digits based on 
 
 🧮 Classifier: Logistic Regression
 
-# 📈 Accuracy: 87%
+## 📈 Accuracy: 87%
 
 🏷️ Classes: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
 
